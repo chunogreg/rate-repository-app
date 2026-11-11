@@ -1,6 +1,6 @@
 ## Rate Repository App
 
-This is a mobile application built with react native and expo and is used for rating GitHub repositories. Users can view reviewed repositories, sign up and sign in to create their own reviews. The application uses GraphQL as it backend. It was created as part of Full Stack Open - part 10
+This is a mobile application built with react native and expo and is used for rating GitHub repositories. Users can view reviewed repositories, sign up and sign in to create their own reviews. The application uses GraphQL as its backend.
 
 ### How to use the App
 
